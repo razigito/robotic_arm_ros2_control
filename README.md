@@ -34,7 +34,7 @@ Clone this repository into the **src** folder of your ROS 2 workspace.
 ```bash
 cd ~/your_ros2_workspace/src
 
-git clone https://github.com/<your_username>/robotic_arm_ros2_control.git
+git clone https://github.com/razigito/robotic_arm_ros2_control.git
 ```
 
 Build the package.
